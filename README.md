@@ -1,10 +1,10 @@
-# 📊 Project Management Portfolio  
+# Project Management Portfolio  
 **Fernanda Menezes**  
 Project Manager | Agile & Hybrid Projects | Data-Driven
 
 ---
 
-## 👩‍💼 Sobre
+## Sobre
 
 Engenheira e Doutora em Engenharia com MBA em Gerenciamento de Projetos.  
 Atuo há mais de 3 anos com projetos de tecnologia de software, com foco em previsibilidade, controle de cronograma, gestão de riscos e reporte executivo.
@@ -16,7 +16,7 @@ Este repositório apresenta exemplos fictícios de governança e acompanhamento 
 #  Executive Sprint Status Report  
 *(Exemplo Fictício – Projeto Ágil)*
 
-## 📌 Informações Gerais
+## Informações Gerais
 
 - **Projeto:** Plataforma de Monitoramento de SLA  
 - **Cliente / Área:** Operações Digitais  
@@ -26,16 +26,16 @@ Este repositório apresenta exemplos fictícios de governança e acompanhamento 
 
 ---
 
-## 🟢 Status Geral da Sprint
+## Status Geral da Sprint
 
-**Situação:** 🟢 On Track  
+**Situação:** On Track  
 
 **Resumo Executivo:**  
 A Sprint 05 evolui conforme planejado, com 82% das entregas concluídas até o momento. A velocidade realizada está aderente à média histórica do time, sem impacto no roadmap macro. Os riscos identificados permanecem sob controle e não afetam a previsão de go-live.
 
 ---
 
-## 📈 Indicadores-Chave da Sprint
+## Indicadores-Chave da Sprint
 
 - Velocidade planejada: 40 pontos  
 - Velocidade realizada: 33 pontos  
@@ -65,7 +65,7 @@ A Sprint 05 evolui conforme planejado, com 82% das entregas concluídas até o m
 
 ---
 
-## ⚠ Pontos de Decisão
+## Pontos de Decisão
 
 - Priorização de backlog incremental solicitado pelo cliente  
 - Aprovação de escopo adicional referente ao módulo de exportação de dados  
@@ -104,7 +104,7 @@ A Sprint 05 evolui conforme planejado, com 82% das entregas concluídas até o m
 
 ---
 
-# 🎯 Competências Demonstradas
+# Competências 
 
 ✔ Gestão híbrida (Agile + PMP)  
 ✔ Controle executivo de sprint  
