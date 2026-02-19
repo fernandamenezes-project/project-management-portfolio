@@ -13,7 +13,7 @@ Este repositório apresenta exemplos fictícios de governança e acompanhamento 
 
 ---
 
-# 🚀 Executive Sprint Status Report  
+#  Executive Sprint Status Report  
 *(Exemplo Fictício – Projeto Ágil)*
 
 ## 📌 Informações Gerais
@@ -46,7 +46,7 @@ A Sprint 05 evolui conforme planejado, com 82% das entregas concluídas até o m
 
 ---
 
-## 🗺 Status do Roadmap
+## Status do Roadmap
 
 - Fase atual: Desenvolvimento  
 - % macro do projeto concluído: 68%  
@@ -55,7 +55,7 @@ A Sprint 05 evolui conforme planejado, com 82% das entregas concluídas até o m
 
 ---
 
-## 🚧 Riscos Estratégicos
+## Riscos Estratégicos
 
 1. Dependência de validação do cliente até 18/02  
    - Mitigação: alinhamento agendado e envio prévio de protótipo funcional  
@@ -72,10 +72,10 @@ A Sprint 05 evolui conforme planejado, com 82% das entregas concluídas até o m
 
 ---
 
-# 📋 Matriz de Risco
+# Matriz de Risco
 *(Exemplo Fictício – Gestão Preventiva)*
 
-## 🔎 Critério de Classificação
+## Critério de Classificação
 
 - Probabilidade: Baixa (1) | Média (2) | Alta (3)  
 - Impacto: Baixo (1) | Médio (2) | Alto (3)  
@@ -83,7 +83,7 @@ A Sprint 05 evolui conforme planejado, com 82% das entregas concluídas até o m
 
 ---
 
-## 📊 Registro de Riscos
+## Registro de Riscos
 
 | ID  | Descrição do Risco | Prob. | Impacto | Severidade | Estratégia | Responsável | Status |
 |-----|--------------------|-------|----------|------------|-------------|--------------|---------|
@@ -95,7 +95,7 @@ A Sprint 05 evolui conforme planejado, com 82% das entregas concluídas até o m
 
 ---
 
-## 📈 Análise Consolidada
+## Análise Consolidada
 
 - Total de riscos identificados: 5  
 - Riscos de alta severidade: 2  
