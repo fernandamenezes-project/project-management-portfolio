@@ -18,21 +18,21 @@ Atuo com ferramentas como Jira, Excel, Microsoft planner, MS project e Power BI,
 ### 📌 Dashboard de Performance de Projetos e Times
 
 Dashboard de indicadores de performance de times e projetos com base em dados do Jira
-➡️➡️ [Acessar projeto](https://github.com/fernandamenezes-project/project-performance-dashboard-powerbi)
+➡️ [Acessar projeto](https://github.com/fernandamenezes-project/project-performance-dashboard-powerbi)
 
 ---
 
-### 📈 Dashboard de Projetos (Power BI)
+### 📈 Painel de Gerenciamento de Projetos
 
-Criação de indicadores e visualização de status de projetos
-➡️ (colocar link do projeto)
+Desenvolver um painel para acompanhamento de múltiplos projetos, permitindo uma visão executiva sobre progresso, custos e status das entregas.
+➡️ [Acessar projeto](https://github.com/fernandamenezes-project/project-management-dashboard)
 
 ---
 
-### 📋 Caderno de Negócios
+### 📋Relatório de Status de Projeto
 
-Modelo estruturado para documentação de requisitos e regras de negócio
-➡️ (colocar link do projeto)
+Criar um modelo estruturado de relatório de status de projeto para acompanhamento de entregas, progresso e indicadores de sprint.
+➡️ {Acessar Projeto] (https://github.com/fernandamenezes-project/project-status-report-template))
 
 ---
 
