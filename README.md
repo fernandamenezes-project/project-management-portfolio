@@ -22,6 +22,13 @@ Dashboard de indicadores de performance de times e projetos com base em dados do
 
 ---
 
+### 📊 Dashboard de SLA Operacional
+
+Desenvolver um dashboard para monitoramento de SLA operacional, permitindo o acompanhamento da disponibilidade e desempenho de serviços
+➡️ [Acessar projeto](https://github.com/fernandamenezes-project/sla-operational-dashboard)
+
+---
+
 ### 📈 Painel de Gerenciamento de Projetos
 
 Desenvolver um painel para acompanhamento de múltiplos projetos, permitindo uma visão executiva sobre progresso, custos e status das entregas.
