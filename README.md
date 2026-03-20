@@ -1,1 +1,55 @@
-# project-management-portfolio
+# 👩‍💼 Fernanda Menezes
+
+Analista de Projetos | Agile | Product  | BI
+
+🎯 Foco em organização de projetos, gestão de backlog e melhoria de processos
+
+---
+
+## 🚀 Sobre mim
+
+Sou profissional com experiência em acompanhamento de projetos, organização de demandas e suporte a times ágeis.
+Atuo com ferramentas como Jira, Excel, Microsoft planner, MS project e Power BI, buscando sempre melhorar a eficiência e visibilidade dos processos.
+
+---
+
+## 📊 Projetos em destaque
+
+### 📌 Gestão de Backlog e Fluxo Ágil
+
+Organização de backlog e estruturação de fluxo de tarefas com foco em produtividade
+➡️ (colocar link do projeto)
+
+---
+
+### 📈 Dashboard de Projetos (Power BI)
+
+Criação de indicadores e visualização de status de projetos
+➡️ (colocar link do projeto)
+
+---
+
+### 📋 Caderno de Negócios
+
+Modelo estruturado para documentação de requisitos e regras de negócio
+➡️ (colocar link do projeto)
+
+---
+
+## 🛠 Ferramentas e metodologias
+
+* Jira
+* Scrum
+* Kanban
+* Excel
+* Power BI
+* Gestão de Projetos
+
+---
+
+## 📬 Contato
+
+🔗 LinkedIn: (https://www.linkedin.com/in/fernandamsousa/)
+📧 Email: (fernanda.msousa05@gmail.com)
+
+---
