@@ -15,10 +15,10 @@ Atuo com ferramentas como Jira, Excel, Microsoft planner, MS project e Power BI,
 
 ## 📊 Projetos em destaque
 
-### 📌 Gestão de Backlog e Fluxo Ágil
+### 📌 Dashboard de Performance de Projetos e Times
 
-Organização de backlog e estruturação de fluxo de tarefas com foco em produtividade
-➡️ (colocar link do projeto)
+Dashboard de indicadores de performance de times e projetos com base em dados do Jira
+➡️ README.md
 
 ---
 
