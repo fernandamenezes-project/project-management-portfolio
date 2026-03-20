@@ -29,6 +29,13 @@ Desenvolver um dashboard para monitoramento de SLA operacional, permitindo o aco
 
 ---
 
+### 📈 Dashboard de Horas CAPEX e OPEX
+
+Desenvolver um dashboard para análise da alocação de horas entre CAPEX e OPEX, permitindo melhor controle financeiro e gestão de recursos.
+➡️ [Acessar projeto](https://github.com/fernandamenezes-project/capex-opex-hours-dashboard)
+
+---
+
 ### 📈 Painel de Gerenciamento de Projetos
 
 Desenvolver um painel para acompanhamento de múltiplos projetos, permitindo uma visão executiva sobre progresso, custos e status das entregas.
