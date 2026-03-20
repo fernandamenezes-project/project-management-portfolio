@@ -18,7 +18,7 @@ Atuo com ferramentas como Jira, Excel, Microsoft planner, MS project e Power BI,
 ### 📌 Dashboard de Performance de Projetos e Times
 
 Dashboard de indicadores de performance de times e projetos com base em dados do Jira
-➡️ [Acessar Projeto] (README.md)
+➡️➡️ [Acessar projeto](https://github.com/fernandamenezes-project/project-performance-dashboard-powerbi)
 
 ---
 
