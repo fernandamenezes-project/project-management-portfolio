@@ -1,69 +1,66 @@
 # 👩‍💼 Fernanda Menezes
 
-Analista de Projetos | Agile | Product  | BI
+Analista de Projetos | Agile | Dados | Operações
 
-🎯 Foco em organização de projetos, gestão de backlog e melhoria de processos
+🎯 Foco em gestão de projetos, análise de performance e melhoria de processos
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou profissional com experiência em acompanhamento de projetos, organização de demandas e suporte a times ágeis.
-Atuo com ferramentas como Jira, Excel, Microsoft planner, MS project e Power BI, buscando sempre melhorar a eficiência e visibilidade dos processos.
+Profissional com experiência em gestão de projetos, acompanhamento de entregas e análise de indicadores.
+
+Atuo com ferramentas como Jira, Power BI e Excel, apoiando times na organização de demandas, tomada de decisão e melhoria contínua.
 
 ---
 
 ## 📊 Projetos em destaque
 
-### 📌 Dashboard de Performance de Projetos e Times
+### 📈 Dashboard de Performance de Times
 
-Dashboard de indicadores de performance de times e projetos com base em dados do Jira
-➡️ [Acessar projeto](https://github.com/fernandamenezes-project/project-performance-dashboard-powerbi)
-
----
-
-### 📊 Dashboard de SLA Operacional
-
-Desenvolver um dashboard para monitoramento de SLA operacional, permitindo o acompanhamento da disponibilidade e desempenho de serviços
-➡️ [Acessar projeto](https://github.com/fernandamenezes-project/sla-operational-dashboard)
+Análise de produtividade, story points e horas por sprint
+➡️ https://github.com/fernandamenezes-project/project-performance-dashboard-powerbi
 
 ---
 
-### 📈 Dashboard de Horas CAPEX e OPEX
+### 📊 Painel de Gerenciamento de Projetos
 
-Desenvolver um dashboard para análise da alocação de horas entre CAPEX e OPEX, permitindo melhor controle financeiro e gestão de recursos.
-➡️ [Acessar projeto](https://github.com/fernandamenezes-project/capex-opex-hours-dashboard)
-
----
-
-### 📈 Painel de Gerenciamento de Projetos
-
-Desenvolver um painel para acompanhamento de múltiplos projetos, permitindo uma visão executiva sobre progresso, custos e status das entregas.
-➡️ [Acessar projeto](https://github.com/fernandamenezes-project/project-management-dashboard)
+Visão executiva de progresso, custos e status dos projetos
+➡️ https://github.com/fernandamenezes-project/project-management-dashboard
 
 ---
 
-### 📋Relatório de Status de Projeto
+### 📋 Relatório de Status de Projeto
 
-Criar um modelo estruturado de relatório de status de projeto para acompanhamento de entregas, progresso e indicadores de sprint.
-➡️ {Acessar Projeto] (https://github.com/fernandamenezes-project/project-status-report-template))
+Template estruturado para comunicação com stakeholders
+➡️ https://github.com/fernandamenezes-project/project-status-report-template
 
 ---
 
-## 🛠 Ferramentas e metodologias
+### 🚦 Dashboard de SLA Operacional
+
+Monitoramento de desempenho e tempo de resposta de serviços
+➡️ https://github.com/fernandamenezes-project/sla-operational-dashboard
+
+---
+
+### 💰 CAPEX vs OPEX
+
+Análise de alocação de horas e controle financeiro
+➡️ https://github.com/fernandamenezes-project/capex-opex-hours-dashboard
+
+---
+
+## 🛠 Ferramentas
 
 * Jira
-* Scrum
-* Kanban
-* Excel
 * Power BI
+* Excel
+* Scrum / Kanban
 * Gestão de Projetos
 
 ---
 
 ## 📬 Contato
 
-🔗 LinkedIn: (https://www.linkedin.com/in/fernandamsousa/)
-📧 Email: (fernanda.msousa05@gmail.com)
-
----
+🔗 LinkedIn:(https://www.linkedin.com/in/fernandamsousa/)
